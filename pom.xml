@@ -9,7 +9,10 @@
     <groupId>com.todo</groupId>
     <artifactId>todo-application</artifactId>
     <version>1.0.0</version>
-    
+
+
+
+         
     <packaging>jar</packaging>
 
     <name>Todo Application</name>
